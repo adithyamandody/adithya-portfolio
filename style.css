@@ -110,10 +110,11 @@ body{
 
 .page-2{
     padding-top: 7%;
-
+    
 }
 .second-section{
-    padding-top: 3%;
+    padding-top: 50px;
+    padding-left: 20px;
 }
   .img-hero-2{
     border-radius: 19px;
@@ -167,6 +168,7 @@ body{
       font-size: 1.563rem ;
       font-weight: lighter;
       text-align: left;
+      padding-top: 25px;
     
   }
 
